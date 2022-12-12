@@ -1,0 +1,1 @@
+# odoo-barcodes-in-form-view
